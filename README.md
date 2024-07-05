@@ -48,6 +48,7 @@ This project showcases the use of Power Query and DAX Query to analyze employee 
 
 
 
+
 ![Screenshot hr powerbi dash](https://github.com/Bhoomi-11-S/HR-ANALYTICS-POWERBI-DASHBOARD-PROJECT/assets/174245391/f033886d-67bf-44f5-80e7-766a7da96372)
 
 
